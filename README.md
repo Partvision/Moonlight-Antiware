@@ -9,9 +9,11 @@ Welcome to Moonlight Antiware, an advanced anti-cheat solution built by Partvisi
 ✅ Designed for smooth integration into any game
 
           👾 About Me
-I'm Partvision, a dev who knows anti-cheats inside and out—because I’ve breached enough of them. Now, I’m building better defenses. If you’re interested in integrating this into your project, hit me up.
+I'm Partvision, a dev who knows anti-cheats inside and out—because I’ve used enough of them. Now, I’m building better defenses. If you’re interested in this project, you can join the discord or subscribe to me.
+Feat. Flyie
 
-          📬 Contact
+          📬 Contact          
           🔗 YouTube: (https://www.youtube.com/@Partvision/videos)
+          🔗 YouTube: (https://www.youtube.com/@Flyie/videos)
           🔗 Discord: (https://discord.gg/kD2vbGZ7Hz)
 
